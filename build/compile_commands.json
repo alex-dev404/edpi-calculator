@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/alex/Área de trabalho/app dpi/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Sensi_Calculator.dir/main.cpp.o -c \"/home/alex/Área de trabalho/app dpi/main.cpp\"",
+  "file": "/home/alex/Área de trabalho/app dpi/main.cpp",
+  "output": "CMakeFiles/Sensi_Calculator.dir/main.cpp.o"
+}
+]

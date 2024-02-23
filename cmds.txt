@@ -1,0 +1,2 @@
+g++ -c "/home/alex/Área de trabalho/app dpi/main.cpp" -o "/home/alex/Área de trabalho/app dpi/main.o" -std=c++11 -I/path/to/sfml/include
+g++ -o "/home/alex/Área de trabalho/app dpi/main" "/home/alex/Área de trabalho/app dpi/main.o" -lsfml-graphics -lsfml-window -lsfml-system -L/path/to/sfml/lib
