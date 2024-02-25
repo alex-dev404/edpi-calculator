@@ -1,2 +1,4 @@
+i686-w64-mingw32-g++ -o EDPI_Windows.exe main.cpp -std=c++11 -I./SFML-2.6.1/include -L./SFML-2.6.1/lib -lsfml-graphics -lsfml-window -lsfml-system
 g++ -c "/home/alex/Área de trabalho/app dpi/main.cpp" -o "/home/alex/Área de trabalho/app dpi/main.o" -std=c++11 -I/path/to/sfml/include
 g++ -o "/home/alex/Área de trabalho/app dpi/main" "/home/alex/Área de trabalho/app dpi/main.o" -lsfml-graphics -lsfml-window -lsfml-system -L/path/to/sfml/lib
+i686-w64-mingw32-g++ -o EDPI_Windows.exe main.cpp -std=c++11 -I./SFML-2.6.1/include -L./SFML-2.6.1/lib -lsfml-graphics -lsfml-window -lsfml-system
