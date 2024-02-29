@@ -1,3 +1,0 @@
-/home/alex/Área de trabalho/app dpi/build/CMakeFiles/Sensi_Calculator.dir
-/home/alex/Área de trabalho/app dpi/build/CMakeFiles/edit_cache.dir
-/home/alex/Área de trabalho/app dpi/build/CMakeFiles/rebuild_cache.dir
